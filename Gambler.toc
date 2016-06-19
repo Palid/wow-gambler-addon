@@ -1,0 +1,10 @@
+## Interface: 60200
+## Title: Gambler
+## Author: Palid
+## Version: 0.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Notes: A fun way to lose gold. Or win it.
+## URL: http://wow.curseforge.com/addons/cross-gambling/
+## SavedVariables: Gambler
+Gambler.lua
